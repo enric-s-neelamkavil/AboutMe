@@ -12,7 +12,7 @@
 - 📫 Reach me at **enricsneelamkavil@gmail.com**
 
 
-<h3 align="left">Languages and Tools I use :</h3>
+<h3 align="left">Softwares and Tools I use :</h3>
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/corel-draw-2020-logo-270FEE465B-seeklogo.com.png" alt="coreldraw" width="40" height="40"/> </a> 
