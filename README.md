@@ -26,7 +26,8 @@
 <a href="https://www.blogger.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/B/blogger_B-logo-47610B2F87-seeklogo.com.png" alt="blogger" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a>
 
-<img src="https://mulearn.org/embed/rank/enricsneelamkavil@mulearn" width="200" height="200"></img>
+<h3 align="left">MuLearn Rank Card :</h3>
+<img src="https://mulearn.org/embed/rank/enricsneelamkavil@mulearn" width="300" height="250"></img>
 
 <h3 align="left">Support me :</h3>
 <p><a href="https://www.buymeacoffee.com/enricsn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="enricsn" /></a></p>
