@@ -14,7 +14,7 @@
 
 <h3 align="left">Softwares and Tools I use :</h3>
 <p align="left">
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/188/872/969/macos-app-icons-framer-png-icon.jpg" alt="framer" width="40" height="40"/> </a>
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/framer-color-icon.png" alt="framer" width="40" height="40"/> </a>
 <a href="https://www.webflow.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" alt="webflow" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="sketcho" width="40" height="40"/> </a> 
