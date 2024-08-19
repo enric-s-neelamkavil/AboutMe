@@ -1,11 +1,11 @@
 <h3 align="left">I'm a Product Designer.</h3>
 
 
-- 🔭 I’m currently working on **Product Design**
+- 🔭 I’m currently working in **Product Design**
 
-- 🌱 I’m currently working at **Fun Designs**
+- 🌱 I’m currently working at **UST**
 
-- 👯 I’m looking to collaborate on **Designing Products**
+- 👯 I’m looking to collaborate on **Design Products**
 
 - 💬 Ask me anything about **Design**
 
